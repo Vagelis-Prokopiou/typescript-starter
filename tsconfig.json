@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "./js/",
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "module": "es6",
+    "target": "es5",
+    "alwaysStrict": true,
+    "allowJs": true,
+    "forceConsistentCasingInFileNames": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noErrorTruncation": true,
+    "noFallthroughCasesInSwitch": true,
+    "pretty": true,
+    "removeComments": true,
+    "strict": true,
+    "version": true,
+    "extendedDiagnostics": true
+  }
+}
